@@ -20,6 +20,7 @@
         <jstl.version>1.2</jstl.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
+        <sitemesh.version>2.4.2</sitemesh.version>
     </properties>
 
     <dependencies>
@@ -76,6 +77,13 @@
             <groupId>javax.servlet</groupId>
             <artifactId>jstl</artifactId>
             <version>${jstl.version}</version>
+        </dependency>
+
+        <!-- template sitemesh decorator easier than tiles library -->
+        <dependency>
+            <groupId>opensymphony</groupId>
+            <artifactId>sitemesh</artifactId>
+            <version>${sitemesh.version}</version>
         </dependency>
 
     </dependencies>

@@ -11,9 +11,9 @@ public class HomeController {
     @RequestMapping(value = "/home-page", method = RequestMethod.GET)
     public ModelAndView home() {
         ModelAndView modelAndView = new ModelAndView("/web/home");
-        UserDTO userDTO = new UserDTO();
-        userDTO.setName("Hello MRA");
-        modelAndView.addObject("modelUser", userDTO);
+//        UserDTO userDTO = new UserDTO();
+//        userDTO.setName("Hello MRA");
+//        modelAndView.addObject("modelUser", userDTO);
         return modelAndView;
     }
 }
