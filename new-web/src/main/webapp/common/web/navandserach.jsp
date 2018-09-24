@@ -59,7 +59,7 @@
                                                                         <div class="vid-box"><span
                                                                                 class="ion-ios7-film"></span><img
                                                                                 class="img-thumbnail"
-                                                                                src="<c:url value="//template/web/images/lifestyle/lifestyle-slide-2.jpg"/>"
+                                                                                src="<c:url value="/template/web/images/lifestyle/lifestyle-slide-2.jpg"/>"
                                                                                 width="300" height="132"
                                                                                 alt=""/></div>
                                                                     </a></div>
@@ -71,7 +71,7 @@
                                                                     <a href="#">
                                                                         <div class="sub-box"><img
                                                                                 class="img-thumbnail"
-                                                                                src="<c:url value="//template/web/images/lifestyle/lifestyle-slide-1.jpg"/>"
+                                                                                src="<c:url value="/template/web/images/lifestyle/lifestyle-slide-1.jpg"/>"
                                                                                 width="300" height="132"
                                                                                 alt=""/></div>
                                                                     </a></div>

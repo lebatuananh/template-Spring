@@ -8,7 +8,7 @@
                                                                     href="index.html">globalnews</a>
         </div>
         <div class="col-sm-11 col-md-11 hidden-xs text-right"><img src="<c:url
-            value="//template/web/images/ads/468-60-ad.gif"/>" width="468"
+            value="/template/web/images/ads/468-60-ad.gif"/>" width="468"
                                                                    height="60" alt=""/></div>
     </div>
 </div>

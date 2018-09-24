@@ -20,6 +20,9 @@
     <link rel="stylesheet" href="<c:url value="/template/web/css/animate.css"/>"/>
     <!-- custom styles -->
     <link href="<c:url value="/template/web/css/custom-red.css"/>" rel="stylesheet" id="style">
+    <%--<link href="<c:url value="/template/web/css/custom-purple.css"/>" rel="stylesheet" id="style2">--%>
+    <%--<link href="<c:url value="/template/web/css/custom-green.css"/>" rel="stylesheet" id="style3">--%>
+    <%--<link href="<c:url value="/template/web/css/custom-blue.css"/>" rel="stylesheet" id="style">--%>
     <!-- owl carousel styles-->
     <link rel="stylesheet" href="<c:url value="/template/web/css/owl.carousel.css"/>">
     <link rel="stylesheet" href="<c:url value="/template/web/css/owl.transitions.css"/>">
@@ -38,22 +41,10 @@
     <div id="status"></div>
 </div>
 <!-- preloader end -->
-<!-- style switcher start -->
-<div class="switcher" style="left:-50px;"><a id="switch-panel" class="hide-panel"> <i class="ion-gear-a"></i> </a>
-    <div id="switcher">
-        <ul class="colors-list">
-            <li><a href="#" class="red" id="custom-red"></a></li>
-            <li><a href="#" class="green" id="custom-green"></a></li>
-            <li><a href="#" class="purple" id="custom-purple"></a></li>
-            <li><a href="#" class="blue" id="custom-blue"></a></li>
-        </ul>
-    </div>
-</div>
-<!-- style switcher end -->
 <!-- wrapper start -->
 <div class="wrapper">
     <!-- header toolbar start -->
-    <%@ include file="/common/web/hedertoolbar.jsp" %>
+    <%@ include file="/common/web/headertoolbar.jsp" %>
     <!-- header toolbar end -->
     <!-- sticky header start -->
     <%@ include file="/common/web/stickyheader.jsp" %>

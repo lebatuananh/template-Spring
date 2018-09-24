@@ -51,7 +51,7 @@
                         <li><a href="#">
                             <div class="row">
                                 <div class="col-sm-4"><img class="img-thumbnail pull-left"
-                                                           src="<c:url value="//template/web/images/footer-recent/f-recent-1.jpg"/>"
+                                                           src="<c:url value="/template/web/images/footer-recent/f-recent-1.jpg"/>"
                                                            width="70"
                                                            height="70" alt=""/></div>
                                 <div class="col-sm-12">
@@ -72,7 +72,7 @@
                         <li><a href="#">
                             <div class="row">
                                 <div class="col-sm-4 "><img class="img-thumbnail pull-left"
-                                                            src="<c:url value="//template/web/images/footer-recent/f-recent-2.jpg"/>"
+                                                            src="<c:url value="/template/web/images/footer-recent/f-recent-2.jpg"/>"
                                                             width="70"
                                                             height="70" alt=""/></div>
                                 <div class="col-sm-12">
@@ -93,7 +93,7 @@
                         <li><a href="#">
                             <div class="row">
                                 <div class="col-sm-4"><img class="img-thumbnail pull-left"
-                                                           src="<c:url value="//template/web/images/footer-recent/f-recent-3.jpg"/>"
+                                                           src="<c:url value="/template/web/images/footer-recent/f-recent-3.jpg"/>"
                                                            width="70"
                                                            height="70" alt=""/></div>
                                 <div class="col-sm-12">
